@@ -1,0 +1,26 @@
+{
+  "name": "fun",
+  "version": "1.0.0",
+  "description": "created for the fun of coding",
+  "main": "db_connection.js",
+  "dependencies": {
+    "knex": "^0.20.13",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "objection": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lijun21/fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lijun21/fun/issues"
+  },
+  "homepage": "https://github.com/Lijun21/fun#readme"
+}
