@@ -4,7 +4,7 @@
   "description": "created for the fun of coding",
   "main": "db_connection.js",
   "dependencies": {
-    "knex": "^0.20.13",
+    "knex": "^2.4.0",
     "mysql": "^2.18.1",
     "mysql2": "^2.1.0",
     "objection": "^2.1.3"
